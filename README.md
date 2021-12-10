@@ -3,6 +3,7 @@
 V Pinout % Configuraton pogledu glede na vašo razvojno ploščico ugotovite, ali lahko uporabite modro tipko za digitalni vhod kot interrupt (GPIO_EXT…). Če da, kateri pin je to? PA0
 
 Zapišite naslov izhodnih pinov za zeleno in modro LED:
+
 PC9 (LD3 - Green Led)  PC8 (LD4 - Blue Led)
 
 Znotraj te funkcije zapišite ukaz za vklop/izklop zelene LED:
