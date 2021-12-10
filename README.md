@@ -21,4 +21,4 @@ Opazujte delovanje (utripanje modre LED). Kaj se zgodi, ko pritisnemo na modro t
 
 Ali pritisk na modro tipko vpliva na utripanje modre LED in zakaj? Ne upliva, ker je modra LED nastavljena tako, da vedno utripa.
 
-Komentar: Vse deluje kot pričakovano.
+Komentar: Sprva so bile težave z kodo ampak na zdaj deluje vse kot pričakovano.
